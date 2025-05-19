@@ -1,0 +1,2 @@
+# intermediate-cpp-applications
+ This repository features intermediate C++ projects to help developers enhance their skills through practical applications. Explore systems like a Library Management System, algorithmic challenges such as a Maze Solver, and classic games like Chess, while diving into concepts like Object-Oriented Programming (OOP), data structures, memory management, and algorithmic design. Perfect for taking your C++ knowledge to the next level!
